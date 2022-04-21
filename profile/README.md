@@ -1,6 +1,6 @@
 # MSA Lone Star Council
 
-![Logo](/assets/LSC.png)
+![Logo](./assets/LSC.png)
 
 MSA Lone Star Council is a student-led and operated 501(c)(3) charitable non-profit that focuses on supporting muslim students in Texas by facilitating networking and training/development opportunities.
 
